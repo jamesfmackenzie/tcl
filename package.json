@@ -1,0 +1,17 @@
+{
+  "name": "tcl",
+  "version": "0.0.0",
+  "description": "Twitter Command Line",
+  "main": "tcl.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.17.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
